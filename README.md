@@ -15,3 +15,4 @@ Feel free to suggest changes to our docs, or add new content!
 * Install `jekyll` dependencies by running `bundle install`
 * `npm i` to install this package's dependencies
 * To start the web server on your machine, check out this repo and run `npm start`.
+* And it's done.
